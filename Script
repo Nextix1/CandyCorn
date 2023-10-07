@@ -1,1 +1,3 @@
+--execute on lobby
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nextix1/CandyCornFarm/main/2023"))()
